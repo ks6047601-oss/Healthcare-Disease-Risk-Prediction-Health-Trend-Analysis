@@ -1,0 +1,2 @@
+# Healthcare-Disease-Risk-Prediction-Health-Trend-Analysis
+Healthcare Disease Risk Prediction &amp; Health Trend Analysis is a machine learning–based project that predicts disease risk using patient health data. It applies data preprocessing, EDA, and ML models to analyze trends in age, BMI, cholesterol, and blood pressure, delivering real-time risk insights through an interactive Streamlit application.
